@@ -6,3 +6,4 @@ def shout(name):
   print(name.lower())
   print("Omolewa")
   print("NENE")
+  print("Adaramola")
